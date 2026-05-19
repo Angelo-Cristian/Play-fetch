@@ -1,4 +1,4 @@
-# Play fetch
+# 🎮 Play fetch
 This is a game that was made with unity. You have to send dogs to catch the balls that are falling from the sky. The challange of this game is to time well your dogs to perfectly catch the balls. Also, the balls have different speed values, depanding on the color that the ball has.
 <img width="1910" height="862" alt="Fetch the ball" src="https://github.com/user-attachments/assets/b0d746c4-8305-42c0-9fa6-2aacf351bc42" />
 
